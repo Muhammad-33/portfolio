@@ -90,9 +90,6 @@ nav a:hover, a.a-home{
     display: none;
     max-height:500px ;
 }
-main {
-  flex: 1 0 auto;
-}
 .home{
     min-height: 90vh;
     display: flex;
