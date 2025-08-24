@@ -182,13 +182,13 @@ nav a:hover, a.a-home{
     height: 300px;
     border-radius:50%;
     border: 5px solid #00abf0;
-    background: #fff url("images/images.jpg")no-repeat ;
+    background: #fff url("https://static.vecteezy.com/system/resources/thumbnails/027/110/723/small_2x/business-man-on-black-background-free-photo.jpg")no-repeat ;
     background-size: cover;
     background-position: center;
     position:relative;
     right: 0;
     display: flex;
-    box-shadow: 0 0 25px #00abf0 ,0 0 50px #00abf0 inset;
+    box-shadow: 0 0 10px #00abf0 ,0 0 50px #000000 inset;
 }
 .home-img::before {
     content: "";
@@ -201,7 +201,7 @@ nav a:hover, a.a-home{
     right: -60px;
     transform: rotate(45deg);
     border-radius: 74%;
-    box-shadow: 0 0 20px #00abf0;
+    box-shadow: 0 0 10px #00abf0;
 }
 .home-img::after {
     content: "";
@@ -214,7 +214,7 @@ nav a:hover, a.a-home{
     right: -60px;
     transform: rotate(-45deg);
     border-radius: 74%;
-    box-shadow: 0 0 20px #00abf0;
+    box-shadow: 0 0 10px #00abf0;
 }
 footer{
     position: fixed;
@@ -246,7 +246,7 @@ footer{
     background: transparent;
     border: 2px solid #00abf0;
     border-radius: 50%;
-    font-size: 20px;
+    font-size: 25px;
     color: #00abf0;
     text-decoration: none;
     overflow: hidden;
