@@ -299,6 +299,9 @@ footer{
         left:0;
         right: 0;
     }
+    .home-content p{
+        width: 70vw;
+    }
     .home-img-c{
         width: 100%;
         margin: 1rem 0;
